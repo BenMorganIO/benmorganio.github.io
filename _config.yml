@@ -26,8 +26,8 @@ description: >-
   internet mainly for my opensource contributions to Spree and Solidus.
 baseurl: ""
 url: "https://benmorgan.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: BenMorganIO
+github_username:  BenMorganIO
 
 theme: minima
 plugins:
