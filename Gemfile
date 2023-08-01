@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'minima', '~> 2.5'
-gem 'webrick'
+# gem 'webrick'
 
 group :jekyll_plugins do
   gem 'github-pages'
